@@ -1,7 +1,3 @@
-Here's a complete **GitHub README** for your **Cubic Equation Solver using Stochastic Gradient Descent (SGD) and ReLU**:
-
----
-
 # 🎯 Cubic Equation Solver using SGD + ReLU
 
 This repository contains a simple implementation of a **Cubic Equation Solver** for equations in the form:
