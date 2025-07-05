@@ -30,19 +30,6 @@ The solution is approached using **Stochastic Gradient Descent (SGD)** combined 
 Lesson 3 from [FastAI Course](https://course.fast.ai/Lessons/lesson3.html)
 
 ---
-
-
----
-
-## 🧠 Inspired by
-
-* [FastAI Deep Learning](https://course.fast.ai)
-* Educational use of PyTorch for conceptual understanding
-
----
-
-## 🛠️ Author
-
 Made with ❤️ for the µLearn AI challenge
 Tag: `#cl-ai-gradientdescent`
 
